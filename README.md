@@ -18,5 +18,5 @@ function suma(a, b) {
 
 let resultado = suma(15, 20);
 
-console.log("La suma de 10 y 7 es: " + resultado);
+console.log("La suma de 5 y 9 es: " + resultado);
 
