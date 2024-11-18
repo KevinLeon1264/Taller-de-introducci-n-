@@ -8,15 +8,15 @@ Repositorio de práctica para aprender a usar Git y GitHub, incluyendo comandos 
 
 // Suma de dos números
 
-function resta(a, b) {
+function suma(a, b) {
 
-  return a - b;
+  return a / b;
 
 }
 
 
 
-let resultado = suma(15, 20);
+let resultado = suma(10, 3);
 
-console.log("La suma de 5 y 9 es: " + resultado);
+console.log("La División de 10 y 3 es: " + resultado);
 
