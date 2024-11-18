@@ -8,9 +8,9 @@ Repositorio de práctica para aprender a usar Git y GitHub, incluyendo comandos 
 
 // Suma de dos números
 
-function suma(a, b) {
+function resta(a, b) {
 
-  return a * b;
+  return a - b;
 
 }
 
